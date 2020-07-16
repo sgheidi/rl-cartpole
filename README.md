@@ -6,10 +6,9 @@ Training an RL agent to play the cartpole game in the OpenAI Gym environment.
 
 ![Alt text](video/untrained.gif?raw=true "Untrained")
 
-
 - **Trained** (20000 iterations)
 
-
+![Alt text](video/trained.gif?raw=true "Trained")
 
 ## Running
 
